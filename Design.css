@@ -1,0 +1,111 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-repeat: repeat;
+    background-size: contain;
+}
+.head{
+    
+    margin-left: 40%;
+    font-size:30px;
+  
+}
+button{
+    width: 200px;
+    height: 40px;
+    margin-left: 10%;
+    border-radius: 15px;
+    background-color: rgb(58, 58, 135);
+}
+.come{
+    display: flex;
+    border-radius: 20px;
+    
+}
+.mure{
+    display: flex;
+    border-radius: 20px;
+   }
+.hono{
+    margin-left: 40%;
+    font-size: 30px;
+    text-decoration: underline;
+     color: rgb(135, 98, 98);
+}
+
+.rerw{
+    display: flex;
+    margin-left: 10%;
+    font-size: 30px;
+    background-color: rgb(64, 91, 91);
+}
+.img-1{
+    display:block;
+   
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+    
+    
+     
+}
+.img-2{
+    display:block;
+  
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+    
+}
+.img-3{
+    display: block;
+   
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+}
+.img-4{
+    display: block;
+    gap: 5%;
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+
+}
+.img-5{
+    display:block;
+    gap: 5%;
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+
+}
+.img-6{
+    display: block;
+    gap: 5%;
+    margin-left: 10%;
+    background: rgb(123, 89, 100);
+    border-radius: 30px;
+
+}
+.line{
+    display: flex;
+    margin-left: 10%;
+    font-size: 30px;
+    background-color: rgb(64, 91, 91);
+    background-position: center;
+
+}
+.rerwa{
+    margin-left: 42%;
+    font-size: 25px;
+
+}
+.container{
+    margin-left: 20%;
+    gap: 3%;
+}
+
